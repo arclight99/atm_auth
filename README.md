@@ -1,0 +1,1 @@
+Script that authenticates a pin # (1234) with 3 tries.
